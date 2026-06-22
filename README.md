@@ -17,7 +17,7 @@ I'm curious about problem solving, stay patient when debugging code (at least tr
 
 ### Sentiment analysis on Amazon reviews
 A sentiment analysis project on Amazon customer reviews (musical instruments category).  
-Built a full end-to-end pipeline including data preprocessing, feature engineering, and sentiment classification model development.
+Built a pipeline including data preprocessing, feature engineering, and sentiment classification model development.
 
 🔗 GitHub Repository: https://github.com/zanko-km/Amazon-Review
 
