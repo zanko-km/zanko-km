@@ -1,5 +1,12 @@
-## Hi there 👋
+# Hi 👋 I'm Zanko Karimi
 
+I'm an Engineering Science student at the University of Tehran, interested in the Data Science field.
+
+I'm curious about problem solving, try to stay patient when debugging code (at least try to), and I enjoy learning new things.
+
+# Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 <!--
 **zanko-km/zanko-km** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
