@@ -26,17 +26,14 @@ A machine learning project using voice data from a university course dataset.
 The goal is to identify students based on their voice and classify gender using extracted audio features.
 
 🔗 GitHub Repository: https://github.com/zanko-km/ML-Voice-Recognition-Project
-<!--
-**zanko-km/zanko-km** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Dama — Checkers Game with AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A dama game built from scratch using **Python and Pygame**, featuring multiple AI opponents with different playing strategies.
+
+The AI opponents use **Minimax with iterative deepening** and different evaluation profiles to create distinct playing styles, including aggressive, defensive, expert, and trickster behaviors.
+
+The game was also optimized for **web and mobile browsers**, including a custom rendering approach to improve performance on mobile devices.
+
+🎮 Play the game: https://zanko-km.github.io/dama-game/
+🔗 GitHub Repository: https://github.com/zanko-km/dama-game
