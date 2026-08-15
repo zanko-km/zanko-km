@@ -36,4 +36,5 @@ The AI opponents use **Minimax with iterative deepening** and different evaluati
 The game was also optimized for **web and mobile browsers**, including a custom rendering approach to improve performance on mobile devices.
 
 🎮 Play the game: https://zanko-km.github.io/dama-game/
+
 🔗 GitHub Repository: https://github.com/zanko-km/dama-game
