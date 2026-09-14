@@ -38,3 +38,18 @@ The game was also optimized for **web and mobile browsers**, including a custom 
 🎮 Play the game: https://zanko-km.github.io/dama-game/
 
 🔗 GitHub Repository: https://github.com/zanko-km/dama-game
+
+
+
+### JobVision Market Analysis
+
+
+An interactive job market analysis platform built using **Python, Pandas, and Streamlit**, based on job listings collected from JobVision.
+
+The project uses **web scraping and data processing** to collect and analyze job opportunities, providing insights into salaries, job categories, employers, locations, seniority levels, and remote work opportunities.
+
+The application also includes an **interactive search feature** that allows users to explore and analyze job listings based on job title and company, with visualizations for identifying trends in the job market.
+
+📊 Live Demo: https://zanko-km.github.io/Jobvision-market-analysis/
+
+🔗 GitHub Repository: https://github.com/zanko-km/Jobvision-market-analysis
